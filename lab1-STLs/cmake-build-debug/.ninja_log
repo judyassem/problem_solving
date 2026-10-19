@@ -1,0 +1,7 @@
+# ninja log v6
+37	841	8129808216246117	CMakeFiles/lab1_STLs.dir/A.cpp.obj	613c509424d6a3ca
+842	1067	8129808224304441	lab1_STLs.exe	f5c821cf64739336
+15	140	8132688479610989	CMakeFiles/new_target.dir/problem_G/G.cpp.obj	a38526a34c3edfc5
+3123	3768	8133689941974464	new_target.exe	e1d0be6f7ac93a81
+49	1454	8132687855102318	CMakeFiles/new_target.dir/problem_K/K.cpp.obj	486804a77b25d289
+23	3119	8133689910969782	CMakeFiles/new_target.dir/problem_Q/Q.cpp.obj	55dc176d4c1e019a

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\oneDrive\OneDrive - Cairo University - Students\Desktop\YEAR4\first_semester\selectedTopics\lab1-STLs\build\CMakeFiles\61ed304ebd81fa502b1936019866462b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E94AF59-F363-38E9-B7A3-B10DDE808558}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
